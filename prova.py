@@ -1,1 +1,1 @@
-import o
+#missatge de prova de text sobre arxiu python
